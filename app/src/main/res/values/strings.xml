@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name = "hello">Hey there, </string>
+    <string name="create_account">Create and Account</string>
+    <string name= "welcome">Welcome Back</string>
+    <string name= "first_name">First Name</string>
+    <string name= "last_name">Last Name</string>
+    <string name= "email">email</string>
+    <string name="password">password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="tAndC">By continuing you accept our Privacy Policy and  Terms of Use \t</string>
+    <string name="tAndCHeader">Term of Use</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="or">or</string>
+    <string name="go_to_login">Already have an account? Login</string>
+</resources>
